@@ -147,3 +147,22 @@ table {
   display: inline;
   width: 70px;
 }
+
+span.codeby {
+  margin: 0 auto;
+  display: block;
+  text-align: center;
+  font-size: 0.8rem;
+  padding: 20px 5px;
+  color: #434343b9;
+  font-style: italic;
+}
+
+.codebylink {
+  font-size: 0.8rem;
+  color: #0f1349;
+}
+.codebylink:hover {
+  font-size: 0.8rem;
+  color: #192080;
+}
